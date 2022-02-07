@@ -1,0 +1,188 @@
+
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: url("/public/img/Home1.png");
+}
+.topo-site{
+        
+        text-align: center;
+        background-color: rgb(42, 141, 255);
+        padding: 20px;
+        height: 200px;
+        
+        
+
+}
+
+.titulo-Fly{
+    
+    
+    color: white;
+}
+
+.menu1 {
+    list-style-type: none;
+    float: left;
+    margin: 50px;
+    margin-left: 150px;
+}
+
+.menu1 li {
+
+    
+    float: left;
+}
+
+.menu1 li a {
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.menu1 li a:hover{
+    background-color: white;
+    color: black;
+}
+
+.boa-vinda{
+    clear: both;
+    text-align: center;
+    margin: 20px;
+}
+
+.subtitulo{
+    text-align: center;
+    margin: 20px;
+    color: rgb(42, 141, 255);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+    
+
+.caixa1{
+    background-color: rgb(42, 141, 255) ;
+    padding: 10px;
+    margin: 30px;
+    width: 300px;
+    height: 700px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 50px;
+    float: left;
+    
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.preco{
+    color: white;
+
+}
+.comprar{
+    border-radius: 10px;
+    background-color: blue;
+
+    
+}
+.comprar a{
+    text-decoration: none;
+    color: white;
+}
+
+.conteudo{
+    margin-left: 150px;
+    
+    
+}
+
+
+.rodape{
+    clear:left;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(42, 141, 255);
+    
+}
+
+.rodape-1{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*Destino*/
+.p-destino{
+    font-size: 12px;
+}
+
+/*Hospedagem*/
+.hcaixa{
+    margin-bottom: 50px;
+    width: 800px;
+    background-color: orangered;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border-radius: 200px;
+    font-size: 50px;
+}
+
+.chosp{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+/*Promoção*/
+.risco{
+    text-decoration: line-through;
+}
+
+/*Area cliente*/
+
+.a-c{
+    background-color: darkgrey;
+    width: 800px;
+    margin-left: 150px;
+    margin-top: 25px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.a-ctitulo{
+    padding: 10px;
+}
+
+/*Contato*/
+.conteudo-contato{
+    padding: 50px;
+}
+
+.form{
+    border: 1px solid rgb(42, 141, 255);
+    border-radius: 10px;
+    
+}
+
+.enviar{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(42, 141, 255);
+    color: white;
+}
